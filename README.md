@@ -113,6 +113,9 @@ Variations in profit margins by region provided guidance for performance assessm
 - **Market-Specific P&L Reports:** Insights into regional profitability to inform future strategies.
 - **Gross Margin % by Quarter:** Understanding of regional performance changes to aid in decision-making.
 
+
+This project was built using Power Query, Power Pivot, DAX, and Pivot Tables in Excel for data cleaning, transformation, and visualization, resulting in actionable insights for Atliq’s strategic planning.
+
 This comprehensive overview serves as a foundation for further analysis and strategic formulation at Atliq Hardware.
 
 
