@@ -1,7 +1,7 @@
 # Atliq Hardware Business Intelligence Reports
 
 Vidoe presentation link
-https://www.linkedin.com/posts/thiruvariyamuthu_businessintelligence-dataanalytics-powerbi-activity-7258810163350953984-x3ri?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEPY-yABJ40C9UnUqbX3G-jiPZWpYugDDJk
+https://www.linkedin.com/feed/update/urn:li:activity:7258810163350953984/
 
 ## Introduction
 Atliq Hardware specializes in selling a wide range of hardware products, including personal computers, mice, printers, and various peripheral devices. Our diverse product lineup caters to a broad range of customers, and we also manufacture our products. To reach our customers, we utilize intermediaries such as retail giants like Croma and Best Buy, as well as popular online marketplaces like Flipkart and Amazon.
